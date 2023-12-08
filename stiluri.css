@@ -1,0 +1,97 @@
+h1 {
+      color: #D3D3D3;
+      text-decoration-line: underline;
+      text-decoration-color: #D3D3D3;
+      border-style: solid;
+      border-color: black;
+      background-color: #696969;
+      text-align: center;
+      font-style: italic;
+}
+
+a { 
+      color: yellow;
+      text-decoration-line: underline;
+      text-decoration-color: yellow;
+      float: right;
+  }    
+
+#part h3 {
+      color: purple;
+      text-decoration-line: underline;
+      text-decoration-color: purple;	
+}
+#part img { 
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+}
+#part ul {
+      text-align: right;
+      list-style-position: inside;
+}
+#part {
+      background-color: #D3D3D3;
+      border-style: solid;
+      border-color: purple;
+}
+h3 {
+      color: purple;
+      text-decoration-line: underline;
+      text-decoration-color: purple;
+}
+
+
+th {
+      color: yellow;
+      text-decoration-line: underline;
+      text-decoration-color: yellow;
+      text-align: center;
+      font-style: italic;
+}
+table, th, td { 
+      border-style: solid;
+      border-collapse: collapse;
+      background-color: #D3D3D3;
+      border-color: orange;
+}
+h2 {
+      color: purple;
+      text-decoration-line: underline;
+      text-decoration-color: purple;
+}
+#pages {
+      background-color: #2F4F4F;
+}
+
+.slideshow-container {
+      max-width: 800px;
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+}
+
+.mySlides {
+      display: none;
+}
+
+img {
+      width: 100%;
+}
+
+.fade {
+      animation: fade 3s ease-in-out infinite;
+}
+
+@keyframes fade {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 1;
+    }
+}
+        
+      
